@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="purple">#6F3ACE</color>
+<!--    이런식으로 추가해서 팔레트에서도 변경 가능  검정을 먼저 넣고 색상을 바꾼다.-->
+
 </resources>
